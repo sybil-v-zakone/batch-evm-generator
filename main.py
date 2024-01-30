@@ -1,8 +1,5 @@
 from config import WALLET_COUNT
-from utils import (
-    batch_generate_accounts,
-    print_greeting_msg,
-)
+from utils import batch_generate_accounts, print_greeting_msg
 
 
 def main():
